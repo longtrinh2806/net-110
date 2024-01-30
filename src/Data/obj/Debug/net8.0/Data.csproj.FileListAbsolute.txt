@@ -1,0 +1,12 @@
+D:\Learning IT\Learning ASP NET\.net dev 110\Net110\src\Data\bin\Debug\net8.0\Data.deps.json
+D:\Learning IT\Learning ASP NET\.net dev 110\Net110\src\Data\bin\Debug\net8.0\Data.dll
+D:\Learning IT\Learning ASP NET\.net dev 110\Net110\src\Data\bin\Debug\net8.0\Data.pdb
+D:\Learning IT\Learning ASP NET\.net dev 110\Net110\src\Data\obj\Debug\net8.0\Data.csproj.AssemblyReference.cache
+D:\Learning IT\Learning ASP NET\.net dev 110\Net110\src\Data\obj\Debug\net8.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning IT\Learning ASP NET\.net dev 110\Net110\src\Data\obj\Debug\net8.0\Data.AssemblyInfoInputs.cache
+D:\Learning IT\Learning ASP NET\.net dev 110\Net110\src\Data\obj\Debug\net8.0\Data.AssemblyInfo.cs
+D:\Learning IT\Learning ASP NET\.net dev 110\Net110\src\Data\obj\Debug\net8.0\Data.csproj.CoreCompileInputs.cache
+D:\Learning IT\Learning ASP NET\.net dev 110\Net110\src\Data\obj\Debug\net8.0\Data.dll
+D:\Learning IT\Learning ASP NET\.net dev 110\Net110\src\Data\obj\Debug\net8.0\refint\Data.dll
+D:\Learning IT\Learning ASP NET\.net dev 110\Net110\src\Data\obj\Debug\net8.0\Data.pdb
+D:\Learning IT\Learning ASP NET\.net dev 110\Net110\src\Data\obj\Debug\net8.0\ref\Data.dll

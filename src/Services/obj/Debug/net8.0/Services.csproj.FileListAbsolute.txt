@@ -1,0 +1,15 @@
+D:\Learning IT\Learning ASP NET\.net dev 110\Net110\src\Services\bin\Debug\net8.0\Services.deps.json
+D:\Learning IT\Learning ASP NET\.net dev 110\Net110\src\Services\bin\Debug\net8.0\Services.dll
+D:\Learning IT\Learning ASP NET\.net dev 110\Net110\src\Services\bin\Debug\net8.0\Services.pdb
+D:\Learning IT\Learning ASP NET\.net dev 110\Net110\src\Services\bin\Debug\net8.0\Data.dll
+D:\Learning IT\Learning ASP NET\.net dev 110\Net110\src\Services\bin\Debug\net8.0\Data.pdb
+D:\Learning IT\Learning ASP NET\.net dev 110\Net110\src\Services\obj\Debug\net8.0\Services.csproj.AssemblyReference.cache
+D:\Learning IT\Learning ASP NET\.net dev 110\Net110\src\Services\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning IT\Learning ASP NET\.net dev 110\Net110\src\Services\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+D:\Learning IT\Learning ASP NET\.net dev 110\Net110\src\Services\obj\Debug\net8.0\Services.AssemblyInfo.cs
+D:\Learning IT\Learning ASP NET\.net dev 110\Net110\src\Services\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+D:\Learning IT\Learning ASP NET\.net dev 110\Net110\src\Services\obj\Debug\net8.0\Services.csproj.CopyComplete
+D:\Learning IT\Learning ASP NET\.net dev 110\Net110\src\Services\obj\Debug\net8.0\Services.dll
+D:\Learning IT\Learning ASP NET\.net dev 110\Net110\src\Services\obj\Debug\net8.0\refint\Services.dll
+D:\Learning IT\Learning ASP NET\.net dev 110\Net110\src\Services\obj\Debug\net8.0\Services.pdb
+D:\Learning IT\Learning ASP NET\.net dev 110\Net110\src\Services\obj\Debug\net8.0\ref\Services.dll
